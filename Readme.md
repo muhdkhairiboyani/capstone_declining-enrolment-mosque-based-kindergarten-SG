@@ -48,7 +48,7 @@ Format: CSV \
 Link: [Listing of Centre Services](https://data.gov.sg/dataset/listing-of-centre-services)
 
 #### Description of Capstone
-TEXT TEXT TEXT
+In 2017, Straits Times published a report "[Muis, Mendaki looking into sprucing up mosque-based kindergartens](https://www.straitstimes.com/singapore/muis-mendaki-looking-into-sprucing-up-mosque-based-kindergartens)"
 
 I identified the following possible questions for this capstone:
 - GROUPING OF CENTRES: Distance between centres within its district
