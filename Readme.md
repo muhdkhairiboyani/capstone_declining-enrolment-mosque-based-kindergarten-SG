@@ -8,7 +8,7 @@
 #### Dashboard
 Go to [Power BI](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pbix) \
 Go to [PDF](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pdf)
-![Dashboard](NYP_intake_dashboard.png)
+![Dashboard](Analysis of MBK Singapore_v2-01.jpg)
 
 #### Dataset source:
 **Source 01** \
