@@ -1,7 +1,7 @@
-##### Capstone: PostgreSQL & Excel Dashboard
+##### Capstone: POWERBI INTERACTIVE DASHBOARD
 ---
 ---
-# NYP Student Intake: **PLANNED & INTAKE**
+# DECLINING ENROLMENT - MOSQUE-BASED KINDERGARTEN SINGAPORE
 
 ---
 ---
@@ -12,26 +12,40 @@ Go to [Dashboard](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planne
 
 #### Dataset source:
 **Source 01** \
-Title: Nanyang Polytechnic Student Intake, Annual \
-About this dataset: This dataset contains information on the student intake for Nanyang Polytechnic by semester. \
-Coverage: January 1, 2013 to December 31, 2022 \
-Last updated: December 27, 2022, 15:32 (SGT) \
+Title: Listing of Centres Incidental Charges \
+This data set contains the incidental charges set by the pre-school centres. \
+Coverage: March 29, 2019 to April 23, 2023 \
+Last updated: April 24, 2023 \
 Licence: Singapore Open Data Licence \
 Format: CSV \
-Column: 7 \
-Rows: 909 \
-Link: [nanyang-polytechnic-student-intake-annual](https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual)
+Link: [Listing of Centres Incidental Charges](https://data.gov.sg/dataset/listing-of-centres-incidental-charges)
 
 **Source 02** \
-Title: Nanyang Polytechnic Planned Intake, Annual \
-About this dataset: This dataset contains information on Nanyang Polytechnic planned intake by year. \
-Coverage: January 1, 2016 to December 31, 2022 \
-Last updated: January 12, 2022 \
+Title: Listing of Centres Licence History \
+This data set contains the licence history set by the pre-school centres. \
+Coverage: March 9, 2020 to April 23, 2023 \
+Last updated: April 24, 2023, 12:00 (SGT) \
 Licence: Singapore Open Data Licence \
 Format: CSV \
-Column: 6 \
-Rows: 313 \
-Link: [nanyang-polytechnic-planned-intake-annual](https://data.gov.sg/dataset/nanyang-polytechnic-planned-intake-annual)
+Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
+
+**Source 03** \
+Title: Listing of Centres Licence History \
+This data set contains the licence history set by the pre-school centres. \
+Coverage: March 9, 2020 to April 23, 2023 \
+Last updated: April 24, 2023, 12:00 (SGT) \
+Licence: Singapore Open Data Licence \
+Format: CSV \
+Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
+
+**Source 04** \
+Title: Listing of Centres Licence History \
+This data set contains the licence history set by the pre-school centres. \
+Coverage: March 9, 2020 to April 23, 2023 \
+Last updated: April 24, 2023, 12:00 (SGT) \
+Licence: Singapore Open Data Licence \
+Format: CSV \
+Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
 
 #### Description of Capstone
 According to the MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT, the definition of Intake is that Intake refers to the new students entering the polytechnics in a particular year.
