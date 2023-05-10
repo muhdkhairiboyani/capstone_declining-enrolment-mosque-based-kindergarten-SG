@@ -59,6 +59,29 @@ I identified the following possible questions for this capstone:
 
 - AWARENESS: Has all centre attain any form of certification?
 
+## INSIGHTS
+To increase enrolment and ease of choosing a centre within a district: 
+
+CENTRE GROUPING:
+Centres in the NORTH district could be separated into 2 groups:
+- NORTH Group 1 consists of An-Nur and Darul Makmur - Nearer to each other.
+- NORTH Group 2 consists of Al Muttaqin, Istiqamah and En-Naeem - Nearer to each other.
+WEST and SOUTH centres could be separated into their own districts for enrolment.
+
+SCHOOL FEES AND MATERIAL FEES:
+ALL centres could aim to standardize School fees and Material fees within their District. This will help with future enrolment exercises especially for centre transfer or placement within a district 
+
+CERTIFICATION
+From 2017 to 2023 (6 years), only Al Khair Centre is SPARK certified. Centre principals or main body that oversee all centre should look into SPARK certification for the other 14 centres in the near future.
+
+**WAYS TO IMPROVE INSIGHTS**
+Attaining the following data will help improve the above insights to increase enrolment:
+- Enrolment data
+- Curriculum Framework
+- Social Media Presence
+
+
+
 ---
 
 #### Contact me
