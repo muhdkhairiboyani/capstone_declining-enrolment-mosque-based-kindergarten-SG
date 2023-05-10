@@ -52,11 +52,8 @@ In 2017, Straits Times published a report "[Muis, Mendaki looking into sprucing 
 
 I identified the following possible questions for this capstone:
 - GROUPING OF CENTRES: Distance between centres within its district
-
 - SCHOOL FEES & MATERIAL FEES: Are school fees standardized?
-
 - LANGUAGE AS KEY INFLUENCER: Does teaching 'Arabic' language raise a centre's fee?
-
 - AWARENESS: Has all centre attain any form of certification?
 
 ## INSIGHTS
