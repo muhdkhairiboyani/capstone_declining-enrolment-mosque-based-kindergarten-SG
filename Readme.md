@@ -6,8 +6,8 @@
 ---
 ---
 #### Dashboard
-Go to [Presentation](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_for%20presentation.pdf) \
-Go to [Dashboard](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_intake_dashboard.xlsx)
+Go to [Power BI](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pbix) \
+Go to [PDF](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pdf)
 ![Dashboard](NYP_intake_dashboard.png)
 
 #### Dataset source:
@@ -30,55 +30,34 @@ Format: CSV \
 Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
 
 **Source 03** \
-Title: Listing of Centres Licence History \
-This data set contains the licence history set by the pre-school centres. \
-Coverage: March 9, 2020 to April 23, 2023 \
-Last updated: April 24, 2023, 12:00 (SGT) \
+Title: Listing of Centres \
+This data set contains a listing of all active pre-school centres. \
+Coverage: November 20, 2018 to April 23, 2023 \
+Last updated: April 24, 2023, 11:45 (SGT) \
 Licence: Singapore Open Data Licence \
 Format: CSV \
-Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
+Link: [Listing of Centres](https://data.gov.sg/dataset/listing-of-centres)
 
 **Source 04** \
-Title: Listing of Centres Licence History \
-This data set contains the licence history set by the pre-school centres. \
-Coverage: March 9, 2020 to April 23, 2023 \
-Last updated: April 24, 2023, 12:00 (SGT) \
+Title: Listing of Centre Services \
+This data set contains the listing of services provided by pre-school centres. \
+Coverage: November 20, 2018 to April 23, 2023 \
+Last updated: April 24, 2023, 11:44 (SGT) \
 Licence: Singapore Open Data Licence \
 Format: CSV \
-Link: [Listing of Centres Licence History](https://data.gov.sg/dataset/listing-of-centres-licence-history)
+Link: [Listing of Centre Services](https://data.gov.sg/dataset/listing-of-centre-services)
 
 #### Description of Capstone
-According to the MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT, the definition of Intake is that Intake refers to the new students entering the polytechnics in a particular year.
-
-**planned_intake.csv**: CSV dataset shows data of NYP's intend for students intake across its six schools regardless of gender. Data is from 2013 - 2022
-
-**intake.csv**: CSV dataset shows data of students intake into NYP across its six schools according to gender. Data is from 2016 - 2022.
+TEXT TEXT TEXT
 
 I identified the following possible questions for this capstone:
-- Q_1 : Has the yearly intake match the yearly planned intake?
-- Q_2 : What are the top 5 courses among NEW FEMALE students?
-- Q_3 : What are the top 5 courses among NEW MALE students?
-- Q_4 : Since education evolves with the industry that it is linked to. Were there changes to its courses that helps to increase new student intake?
+- GROUPING OF CENTRES: Distance between centres within its district
 
-#### Phase 01: Entity Relationship Diagram - ERD
-An entity relationship diagram gives a snapshot of how these entities relate to each other. You could call it the blueprint that underpins your business architecture, offering a visual representation of the relationships between different sets of data (entities).
+- SCHOOL FEES & MATERIAL FEES: Are school fees standardized?
 
-The ERD screencapture below shows intended changes to be made.
+- LANGUAGE AS KEY INFLUENCER: Does teaching 'Arabic' language raise a centre's fee?
 
-![ERD](ERD.jpg)
-
-#### Phase 02: PostgreSQL
-Both CSV files were dumped as SQL files using SQLite3.
-
-Process of normalisation and alteration are done using sql.
-
-![ERD_dataset](IMG_SQL_01.jpg)
-![ERD_dataset](IMG_SQL_02.jpg)
-![ERD_dataset](IMG_SQL_03.jpg)
-
-#### Phase 03: Dashboard
-The layout of the dashboard shows how the five possible questions are answered.
-![Explanation_of_dashboard](IMG_dashboard_present.jpg)
+- AWARENESS: Has all centre attain any form of certification?
 
 ---
 
@@ -88,12 +67,12 @@ The layout of the dashboard shows how the five possible questions are answered.
 
 ---
 #### Platforms:
-- Dashboards: Microsoft Excel
-- SQL: PostgreSQL
+- Microsoft Power BI
+- Microsoft Excel
 - Markdown: [dillinger](https://dillinger.io)
 
 ---
-#### Illustration:
-- www.openpeeps.com
+#### Photo:
+- Berita Harian
 
 ---
