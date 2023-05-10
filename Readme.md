@@ -6,9 +6,23 @@
 ---
 ---
 #### Dashboard
-Go to [Power BI](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pbix) \
+Go to [Power BI File](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pbix) \
 Go to [PDF](https://github.com/muhdkhairiboyani/capstone_declining-enrolment-mosque-based-kindergarten-SG/blob/main/Analysis%20of%20MBK%20Singapore_v2.pdf)
-![Dashboard](Analysis of MBK Singapore_v2-01.jpg)
+
+COVER PAGE \
+![](IMGs-01.jpg)
+
+Comparing Travel Distance and Time within a District\
+![](IMGs-03.jpg)
+
+Comparing Centre Fees by District \
+![](IMGs-05.jpg)
+
+Comparing Centre Fees by Level\
+![](IMGs-06.jpg)
+
+Certification \
+![](IMGs-08.jpg)
 
 #### Dataset source:
 **Source 01** \
@@ -47,7 +61,7 @@ Licence: Singapore Open Data Licence \
 Format: CSV \
 Link: [Listing of Centre Services](https://data.gov.sg/dataset/listing-of-centre-services)
 
-#### Description of Capstone
+## Description of Capstone
 In 2017, Straits Times published a report "[Muis, Mendaki looking into sprucing up mosque-based kindergartens](https://www.straitstimes.com/singapore/muis-mendaki-looking-into-sprucing-up-mosque-based-kindergartens)". Since then, not much has been reported on how far all mosque-based kindergarten has progressed in areas of professionalism and to be recognised as learning centres in Singapore.
 
 I identified the following possible questions for this capstone:
@@ -64,7 +78,13 @@ Centres in the NORTH district could be separated into 2 groups:
 - NORTH Group 1 consists of An-Nur and Darul Makmur - Nearer to each other.
 - NORTH Group 2 consists of Al Muttaqin, Istiqamah and En-Naeem - Nearer to each other.
 
+Suggestion for NORTH Grouping \
+![](IMGs-10_INSIGHTS.jpg)
+
 WEST and SOUTH centres could be separated into their own districts for enrolment.
+
+Suggestion for separating WEST and SOUTH district from enrolment form. \
+![](IMGs-11_INSIGHTS.jpg)
 
 SCHOOL FEES AND MATERIAL FEES: \
 ALL centres could aim to standardize School fees and Material fees within their District. This will help with future enrolment exercises especially for centre transfer or placement within a district 
